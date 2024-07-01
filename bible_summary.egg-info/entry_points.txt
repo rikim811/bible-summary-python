@@ -1,0 +1,3 @@
+[console_scripts]
+bible-summary = bible_summary.summary:main
+

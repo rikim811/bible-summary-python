@@ -1,0 +1,8 @@
+setup.py
+bible_summary/__init__.py
+bible_summary/summary.py
+bible_summary.egg-info/PKG-INFO
+bible_summary.egg-info/SOURCES.txt
+bible_summary.egg-info/dependency_links.txt
+bible_summary.egg-info/entry_points.txt
+bible_summary.egg-info/top_level.txt
