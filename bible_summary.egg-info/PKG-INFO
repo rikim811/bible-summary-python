@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: bible-summary
-Version: 0.1.3
+Version: 0.1.4
 Summary: A package for summarizing Bible books
-Home-page: rikim.me/docs/bible-summary
+Home-page: https://rikim.me/docs/bible-summary/
 Author: Riki Morohashi
 Author-email: rikimorohashi@gmail.com
 License: UNKNOWN

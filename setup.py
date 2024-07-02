@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="bible_summary",
-    version="0.1.3",
+    name="bible-summary",
+    version="0.1.4",
     packages=find_packages(),
     include_package_data=True,
     package_data={
@@ -11,7 +11,7 @@ setup(
     description="A package for summarizing Bible books",
     author="Riki Morohashi",
     author_email="rikimorohashi@gmail.com",
-    url="rikim.me/docs/bible-summary",
+    url="https://rikim.me/docs/bible-summary/",
     long_description=open('README.md', 'r').read(),
     classifiers=[
         "Programming Language :: Python :: 3",
