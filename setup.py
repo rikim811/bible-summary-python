@@ -12,6 +12,7 @@ setup(
     author="Riki Morohashi",
     author_email="rikimorohashi@gmail.com",
     url="rikim.me/docs/bible-summary",
+    long_description=open('README.md', 'r').read(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
