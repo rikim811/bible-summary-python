@@ -72,6 +72,3 @@ print(f"Summary: {random_summary}")
 chapters_with_keyword = bible_summary.get_chapters_by_keyword("creation")
 print(chapters_with_keyword)
 ```
-
-
-This `README.md` provides a clear and concise overview of the package's features, installation instructions, usage examples, and additional functionalities. Feel free to adjust the content to better fit your specific requirements or preferences.
